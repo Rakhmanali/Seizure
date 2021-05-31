@@ -1,0 +1,15 @@
+bin/
+classes/
+doc/
+logs/
+resources/
+target/
+
+### STS ###
+.settings
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
